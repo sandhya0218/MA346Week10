@@ -1,0 +1,1 @@
+This is a commit for the MA 346 Week 10 Assignment.
