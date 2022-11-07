@@ -1,1 +1,1 @@
-This is a commit for the MA 346 Week 10 Assignment.
+Updating a .txt file for the MA 346 Week 10 Assignment.
